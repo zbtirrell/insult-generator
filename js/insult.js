@@ -27,6 +27,7 @@
 	];
 
 	var fuckAssNoun = [
+		'Bag',
 		'Bagel',
 		'Biscuit',
 		'Blister',
